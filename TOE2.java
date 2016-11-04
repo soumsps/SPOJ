@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.BitSet;
 import java.util.Stack;
 import java.util.StringTokenizer;
-class toe2 {
+class TOE2 {
 	//...................... Global Variables .......................//
 	static BitSet prime;             // used in seive generation
 	// true = not prime     and false = prime
@@ -114,7 +114,7 @@ class toe2 {
         //   out = new PrintWriter(new FileWriter("output.txt"));
         //--------------------------------- File I/O ---------------------------------//
         long start = System.nanoTime();
-        new toe2().solve();
+        new TOE2().solve();
         long stop = System.nanoTime();
       //  System.out.println("Time taken(msec) : "+ (stop-start)/1000000);
         out.close();
