@@ -1,3 +1,5 @@
+//  http://www.spoj.com/problems/BALLSUM/
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
