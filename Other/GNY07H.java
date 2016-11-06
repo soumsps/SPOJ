@@ -1,4 +1,4 @@
-// http://www.spoj.com/problems/GNY07H/
+// http://www.spoj.com/problems/GNY07H
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
