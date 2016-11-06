@@ -1,4 +1,4 @@
-// http://www.spoj.com/problems/TOE2/
+// http://www.spoj.com/problems/TOE2
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
